@@ -5,6 +5,6 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
         String N = sc.next();
-        System.out.println("Your score is "+N+" point");
+        System.out.println("Your score is "+N+" point.");
     }
 }
