@@ -13,9 +13,10 @@ public class Main {
         if(N%2==0&&N%5==0){
             System.out.print("true");
 
-            }
+            }else{
             System.out.println("false");
 
+            }
         }
     }
 }
