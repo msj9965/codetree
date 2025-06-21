@@ -7,7 +7,7 @@ public class Main {
         int[] array= new int[num];
         for(int i = 0; i<num;i++){
             array[i] = sc.nextInt();
-            System.out.print(array[i]**2+" ");
+            System.out.print((int)Math.pow(array[i],2)+" ");
         }
 
     }
